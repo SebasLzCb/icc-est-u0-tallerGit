@@ -9,3 +9,6 @@ Ivanna Nievecela
 
 Estructura de datos
 
+### ACTIVIDAD
+
+SACAR 10 en la practica
